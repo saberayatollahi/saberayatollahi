@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saberayatollahi
 - 👀 I’m interested in developer 
-- 🌱 I’m currently learning php
+- 🌱 I’m currently working php
 - 📫 How to reach me my email address: winprog94108@gmail.com
 
 <!---
